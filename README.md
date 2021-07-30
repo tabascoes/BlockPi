@@ -6,21 +6,29 @@
 
 **Notice: This repo is semi-deprecated due to the author's(@alienzhangyw) new job. Updates are slow and not promised.**
 
+[Google Blockly](https://developers.google.com/blockly/)上に構築された[Raspberry Pi](https://www.raspberry.org)用のビジュアルプログラミングエディターアプリ。RPiユーザーや子供がコーディングを学ぶために作成されました。
+
 一个专门为[树莓派](https://www.raspberry.org)设计的图形化编程平台，基于[Google Blockly](https://developers.google.com/blockly/)构建，适用于树莓派爱好者或者少儿编程学习。
 
 A visual programming editor app for [Raspberry Pi](https://www.raspberry.org), built on [Google Blockly](https://developers.google.com/blockly/), made for RPi users or kids to learn coding.
 
 ![](https://github.com/alienzhangyw/BlockPi/wiki/images/README.png)
 
-## 特点/Features
+## 特徴/特点/Features
 
-- 完整的Blockly移植到树莓派上，完全免费使用。Full Blockly features on RPi, free to use.
+- すべてのBlocklyはRaspberryPi上で無料で使用できます。  
+完整的Blockly移植到树莓派上，完全免费使用。  
+Full Blockly features on RPi, free to use.
 
-- 集成树莓派GPIO控制，支持[Sense HAT](https://www.raspberrypi.org/products/sense-hat/)和CSI摄像头，未来支持更多树莓派外设和功能。Build-in GPIO control, [Sense HAT]([https://www.raspberrypi.org/products/sense-hat/) and CSI Picamera support, and more functions in the future.
+- GPIOの制御や、[Sense HAT](https://www.raspberrypi.org/products/sense-hat/)、CSI Picamera、そして将来のより多くの機能への対応。  
+集成树莓派GPIO控制，支持[Sense HAT](https://www.raspberrypi.org/products/sense-hat/)和CSI摄像头，未来支持更多树莓派外设和功能。  
+Build-in GPIO control, [Sense HAT](https://www.raspberrypi.org/products/sense-hat/) and CSI Picamera support, and more functions in the future.
 
-- 程序可直接在应用内运行，同时可转化成Python代码，方便学习Python。Code runs in the app, and can be convert to Python. Helpful to learn Python.
+- コードはアプリ上で実行が可能で、Pythonへ変換することも可能です。Pythonを学習するのに役立ちます。  
+程序可直接在应用内运行，同时可转化成Python代码，方便学习Python。  
+Code runs in the app, and can be convert to Python. Helpful to learn Python.
 
-- 支持繁简体中文、英语。Localization for English, Simplified/Traditional Chinese.
+- 英語、簡体字/繁体字中国語そして日本語に対応しています。支持繁简体中文、英语、日语。Localization for English, Simplified/Traditional Chinese and also Japanese.
 
 - 支持保存、载入程序。Support save&load codes.
 
