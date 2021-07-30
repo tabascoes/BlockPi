@@ -1,8 +1,10 @@
 # BlockPi
 
-**注意：由于作者本人已转行离开教育行业，平时工作时间也没有时间精力维护，除非放长假。因此此仓库处于半废弃状态，新功能更新会非常慢，并且不做保证。**
+**注：著者自身(@alienzhangyw)が転職して教育業界を離れたため、長期休暇をとらない限り、勤務時間を維持する時間とエネルギーがありません。 したがって、このは半放棄された状態にあり、新機能の更新は非常に遅くなり、保証はありません。**
 
-**Notice: This repo is semi-deprecated due to the author's new job. Updates are slow and not promised.**
+**注意：由于作者本人(@alienzhangyw)已转行离开教育行业，平时工作时间也没有时间精力维护，除非放长假。因此此仓库处于半废弃状态，新功能更新会非常慢，并且不做保证。**
+
+**Notice: This repo is semi-deprecated due to the author's(@alienzhangyw) new job. Updates are slow and not promised.**
 
 一个专门为[树莓派](https://www.raspberry.org)设计的图形化编程平台，基于[Google Blockly](https://developers.google.com/blockly/)构建，适用于树莓派爱好者或者少儿编程学习。
 
